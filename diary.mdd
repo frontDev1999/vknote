@@ -1,0 +1,29 @@
+{
+	"version": "v1",
+	"data": {
+		"2024-12-06": {
+			"content": "测试",
+			"createdTime": 1733498371481,
+			"updatedTime": 1733498467246,
+			"json": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0},\"content\":[{\"type\":\"text\",\"text\":\"测试\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0}}]}",
+			"title": "2024年12月06日 星期五"
+		}
+	},
+	"shadow": "4ba47a772ee9a9d12a6c93d6f39d36d7",
+	"shadowStamp": 1733498370671,
+	"notes": {
+		"root": {
+			"children": [
+				"U2Mh2KKs2vVs8YgA"
+			]
+		},
+		"U2Mh2KKs2vVs8YgA": {
+			"id": "U2Mh2KKs2vVs8YgA",
+			"title": "无标题文档",
+			"content": "",
+			"createdTime": 1733498475222,
+			"updatedTime": 1733498506647,
+			"json": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0}}]}"
+		}
+	}
+}
