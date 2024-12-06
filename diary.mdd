@@ -1,12 +1,10 @@
 {
-	"version": "v1",
+	"version": "v2",
 	"data": {
 		"2024-12-06": {
-			"content": "测试",
-			"createdTime": 1733498371481,
-			"updatedTime": 1733498467246,
-			"json": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0},\"content\":[{\"type\":\"text\",\"text\":\"测试\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0}}]}",
-			"title": "2024年12月06日 星期五"
+			"title": "2024年12月06日 星期五",
+			"content": "> 文档为新版加密格式，请使用v0.5.0及以上版本软件打开",
+			"cipherData": "eyJjb250ZW50Ijoi5oiR5LuK5aSp5LiL6L295LqG57u05YWL56yU6K6w44CC5oSf6KeJ6aG16Z2i5b6I5riF54i944CCIiwiY3JlYXRlZFRpbWUiOjE3MzM0OTgzNzE0ODEsInVwZGF0ZWRUaW1lIjoxNzMzNDk5NjEzNDM4LCJqc29uIjoie1widHlwZVwiOlwiZG9jXCIsXCJjb250ZW50XCI6W3tcInR5cGVcIjpcInBhcmFncmFwaFwiLFwiYXR0cnNcIjp7XCJ0ZXh0QWxpZ25cIjpcImxlZnRcIixcImluZGVudFwiOjB9LFwiY29udGVudFwiOlt7XCJ0eXBlXCI6XCJ0ZXh0XCIsXCJ0ZXh0XCI6XCLmiJHku4rlpKnkuIvovb3kuobnu7TlhYvnrJTorrDjgILmhJ/op4npobXpnaLlvojmuIXniL3jgIJcIn1dfSx7XCJ0eXBlXCI6XCJwYXJhZ3JhcGhcIixcImF0dHJzXCI6e1widGV4dEFsaWduXCI6XCJsZWZ0XCIsXCJpbmRlbnRcIjowfX0se1widHlwZVwiOlwicGFyYWdyYXBoXCIsXCJhdHRyc1wiOntcInRleHRBbGlnblwiOlwibGVmdFwiLFwiaW5kZW50XCI6MH19XX0iLCJ0aXRsZSI6IjIwMjTlubQxMuaciDA25pelIOaYn+acn+S6lCJ9"
 		}
 	},
 	"shadow": "4ba47a772ee9a9d12a6c93d6f39d36d7",
@@ -18,12 +16,11 @@
 			]
 		},
 		"U2Mh2KKs2vVs8YgA": {
-			"id": "U2Mh2KKs2vVs8YgA",
-			"title": "无标题文档",
-			"content": "",
-			"createdTime": 1733498475222,
-			"updatedTime": 1733498506647,
-			"json": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\",\"indent\":0}}]}"
+			"title": "无***档",
+			"content": "> 文档为新版加密格式，请使用v0.5.0及以上版本软件打开",
+			"cipherData": "eyJpZCI6IlUyTWgyS0tzMnZWczhZZ0EiLCJ0aXRsZSI6IuaXoOagh+mimOaWh+ahoyIsImNvbnRlbnQiOiIiLCJjcmVhdGVkVGltZSI6MTczMzQ5ODQ3NTIyMiwidXBkYXRlZFRpbWUiOjE3MzM0OTg1MDY2NDcsImpzb24iOiJ7XCJ0eXBlXCI6XCJkb2NcIixcImNvbnRlbnRcIjpbe1widHlwZVwiOlwicGFyYWdyYXBoXCIsXCJhdHRyc1wiOntcInRleHRBbGlnblwiOlwibGVmdFwiLFwiaW5kZW50XCI6MH19XX0ifQ==",
+			"id": "U2Mh2KKs2vVs8YgA"
 		}
-	}
+	},
+	"templates": {}
 }
